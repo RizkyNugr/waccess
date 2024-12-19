@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Lokasi 1",
+      "coordinates": [106.84513, -6.21462],
+      "description": "Persebaran air bersih di wilayah Jakarta."
+    },
+    {
+      "id": 2,
+      "name": "Lokasi 2",
+      "coordinates": [110.36732, -7.80139],
+      "description": "Persebaran air bersih di wilayah Yogyakarta."
+    },
+    {
+      "id": 3,
+      "name": "Lokasi 3",
+      "coordinates": [112.73482, -7.25044],
+      "description": "Persebaran air bersih di wilayah Surabaya."
+    }
+  ]
+  
